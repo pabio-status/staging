@@ -4,7 +4,7 @@
     "url": "https://pabio.dev",
     "icon": "https://favicons.githubusercontent.com/pabio.dev",
     "slug": "pabio-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 940,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-02": 0
+    }
   }
 ]
