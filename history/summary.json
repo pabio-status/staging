@@ -4,19 +4,19 @@
     "url": "https://pabio.dev",
     "icon": "https://favicons.githubusercontent.com/pabio.dev",
     "slug": "pabio-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 370,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 813,
+    "timeDay": 401,
+    "timeWeek": 813,
+    "timeMonth": 813,
+    "timeYear": 813,
     "dailyMinutesDown": {
-      "2021-05-02": 0
+      "2021-05-02": 24
     }
   }
 ]
