@@ -5,19 +5,34 @@
     "icon": "https://favicons.githubusercontent.com/pabio.dev",
     "slug": "pabio-dev",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 535,
-    "timeDay": 193,
-    "timeWeek": 441,
-    "timeMonth": 535,
-    "timeYear": 535,
-    "dailyMinutesDown": {
-      "2021-05-04": 22,
-      "2021-05-03": 27
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 528,
+    "timeDay": 272,
+    "timeWeek": 430,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Pabio Dev API",
+    "url": "https://api.pabio.dev/health",
+    "icon": "https://favicons.githubusercontent.com/api.pabio.dev",
+    "slug": "pabio-dev-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 357,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
+    "dailyMinutesDown": {}
   }
 ]
