@@ -4,7 +4,11 @@ sites:
   - name: Pabio.dev
     url: https://pabio.dev
   - name: Pabio Dev API
-    url: https://api.pabio.dev/health
+    url: https://pabioapi.dev/health
+  - name: PabioLounge.com
+    url: https://pabiolounge.com
+  - name: PabioLounge.dev
+    url: https://pabiolounge.dev
 status-website:
   cname: staging.pabiostatus.com
   logoUrl: https://github.com/pabio-status/production/raw/HEAD/assets/logo.svg
