@@ -24,9 +24,9 @@
     "url": "https://pabioapi.dev/health",
     "icon": "https://favicons.githubusercontent.com/pabioapi.dev",
     "slug": "pabio-dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 393,
     "timeMonth": 470,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 0
+    }
   },
   {
     "name": "PabioLounge.com",
