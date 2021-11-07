@@ -63,19 +63,19 @@
     "url": "https://pabiolounge.dev",
     "icon": "https://favicons.githubusercontent.com/pabiolounge.dev",
     "slug": "pabio-lounge-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 214,
-    "timeWeek": 191,
-    "timeMonth": 347,
-    "timeYear": 245,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 247,
+    "timeDay": 305,
+    "timeWeek": 223,
+    "timeMonth": 351,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2021-11-07": 0
+      "2021-11-07": 16
     }
   }
 ]
