@@ -3,8 +3,12 @@ repo: staging
 sites:
   - name: Pabio.dev
     url: https://pabio.dev
-  - name: Pabio Dev API
-    url: https://pabioapi.dev/health
+  - name: Pabio Dev API v20211107
+    url: https://v20211107.pabioapi.dev/health
+  - name: Pabio API v20210503
+    url: https://v20210503.pabioapi.com/health
+  - name: Pabio Dev API v20210503
+    url: https://v20210503.pabioapi.dev/health
   - name: PabioLounge.com
     url: https://pabiolounge.com
   - name: PabioLounge.dev
