@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 296,
-    "timeDay": 213,
-    "timeWeek": 225,
-    "timeMonth": 325,
-    "timeYear": 296,
+    "time": 295,
+    "timeDay": 216,
+    "timeWeek": 228,
+    "timeMonth": 322,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2021-05-23": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 349,
-    "timeWeek": 381,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "time": 394,
+    "timeDay": 449,
+    "timeWeek": 386,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 337,
-    "timeWeek": 378,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "time": 385,
+    "timeDay": 408,
+    "timeWeek": 374,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 373,
-    "timeWeek": 372,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 384,
+    "timeDay": 368,
+    "timeWeek": 367,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 188,
-    "timeWeek": 172,
-    "timeMonth": 193,
+    "timeDay": 179,
+    "timeWeek": 183,
+    "timeMonth": 179,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 171,
-    "timeWeek": 183,
-    "timeMonth": 199,
+    "timeDay": 195,
+    "timeWeek": 190,
+    "timeMonth": 194,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2021-11-07": 16
