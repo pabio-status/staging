@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 207,
-    "timeWeek": 226,
-    "timeMonth": 318,
+    "timeDay": 193,
+    "timeWeek": 221,
+    "timeMonth": 319,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2021-05-23": 20
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 415,
-    "timeWeek": 385,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "time": 387,
+    "timeDay": 328,
+    "timeWeek": 372,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 499,
-    "timeWeek": 389,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 384,
+    "timeDay": 335,
+    "timeWeek": 380,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 779,
-    "timeWeek": 431,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "time": 399,
+    "timeDay": 346,
+    "timeWeek": 425,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 174,
-    "timeWeek": 270,
+    "time": 193,
+    "timeDay": 162,
+    "timeWeek": 266,
     "timeMonth": 200,
-    "timeYear": 194,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 232,
-    "timeDay": 243,
+    "time": 231,
+    "timeDay": 195,
     "timeWeek": 211,
-    "timeMonth": 200,
-    "timeYear": 232,
+    "timeMonth": 201,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2021-11-07": 16
     }
