@@ -98,19 +98,19 @@
     "url": "https://pabiolounge.dev",
     "icon": "https://favicons.githubusercontent.com/pabiolounge.dev",
     "slug": "pabio-lounge-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 384,
-    "timeWeek": 323,
-    "timeMonth": 233,
+    "timeDay": 361,
+    "timeWeek": 320,
+    "timeMonth": 235,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2022-01-09": 0,
+      "2022-01-09": 12,
       "2021-11-07": 16
     }
   }
