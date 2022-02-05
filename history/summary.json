@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/pabio.dev",
     "slug": "pabio-dev",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 990,
     "timeWeek": 410,
     "timeMonth": 268,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-02-05": 8,
       "2021-05-23": 20
     }
   },
@@ -81,11 +80,11 @@
     "url": "https://pabiolounge.com",
     "icon": "https://favicons.githubusercontent.com/pabiolounge.com",
     "slug": "pabio-lounge-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 130,
@@ -93,7 +92,7 @@
     "timeMonth": 163,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-02-05": 8
+      "2022-02-05": 0
     }
   },
   {
