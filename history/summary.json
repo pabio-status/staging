@@ -81,9 +81,9 @@
     "url": "https://pabiolounge.com",
     "icon": "https://favicons.githubusercontent.com/pabiolounge.com",
     "slug": "pabio-lounge-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 168,
     "timeMonth": 255,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "PabioLounge.dev",
