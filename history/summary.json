@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 231,
-    "timeWeek": 239,
-    "timeMonth": 314,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 174,
+    "timeWeek": 230,
+    "timeMonth": 318,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2021-05-23": 20
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 429,
-    "timeDay": 375,
-    "timeWeek": 444,
-    "timeMonth": 445,
+    "timeDay": 464,
+    "timeWeek": 449,
+    "timeMonth": 446,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2022-02-16": 27,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 393,
-    "timeWeek": 390,
-    "timeMonth": 430,
-    "timeYear": 411,
+    "time": 412,
+    "timeDay": 481,
+    "timeWeek": 409,
+    "timeMonth": 433,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 387,
-    "timeWeek": 407,
-    "timeMonth": 421,
-    "timeYear": 411,
+    "time": 410,
+    "timeDay": 396,
+    "timeWeek": 410,
+    "timeMonth": 423,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   },
   {
@@ -88,9 +88,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 199,
-    "timeWeek": 177,
-    "timeMonth": 256,
+    "timeDay": 164,
+    "timeWeek": 178,
+    "timeMonth": 268,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2022-02-26": 22
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 261,
-    "timeDay": 231,
-    "timeWeek": 247,
-    "timeMonth": 296,
-    "timeYear": 261,
+    "time": 262,
+    "timeDay": 352,
+    "timeWeek": 254,
+    "timeMonth": 294,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2022-01-24": 17,
       "2021-11-07": 16
