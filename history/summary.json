@@ -14,7 +14,7 @@
     "timeDay": 247,
     "timeWeek": 454,
     "timeMonth": 333,
-    "timeYear": 303,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2021-05-23": 20
     }
@@ -24,18 +24,19 @@
     "url": "https://v20211107.pabioapi.dev/health",
     "icon": "https://favicons.githubusercontent.com/v20211107.pabioapi.dev",
     "slug": "pabio-dev-api-v20211107",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.83%",
     "time": 430,
-    "timeDay": 400,
-    "timeWeek": 462,
+    "timeDay": 408,
+    "timeWeek": 457,
     "timeMonth": 427,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2022-04-30": 0,
       "2022-04-25": 23,
       "2022-04-11": 22,
       "2022-04-08": 56,
