@@ -4,10 +4,10 @@
     "url": "https://pabio.dev",
     "icon": "https://favicons.githubusercontent.com/pabio.dev",
     "slug": "pabio-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
@@ -15,7 +15,9 @@
     "timeWeek": 295,
     "timeMonth": 516,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 1
+    }
   },
   {
     "name": "Pabio Dev API v20211107",
@@ -103,9 +105,9 @@
     "url": "https://pabiolounge.com",
     "icon": "https://favicons.githubusercontent.com/pabiolounge.com",
     "slug": "pabio-lounge-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -115,6 +117,7 @@
     "timeMonth": 240,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-04-15": 35,
       "2022-03-23": 28,
       "2022-02-26": 22
